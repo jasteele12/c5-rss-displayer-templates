@@ -1,0 +1,9 @@
+/* blocks/rss_displayer/templates/show_thumbnails/view.css */
+.rssSummaryListThumb { clear:both; }
+.rssSummaryListThumbTitle { margin-bottom:8px; font-size:larger; font-weight:bold; text-align:center; }
+.rssItemThumb { clear:both; margin-bottom:1em; }
+.rssItemThumbImage { float:left; min-width:120px; min-height:100px; margin-right:2em; margin-bottom:1em; }
+.rssItemThumbImage img { max-width:120px !important; max-height:100px !important; }
+.rssItemThumbTitle a { font-weight:bold; }
+.rssItemThumbDate { font-style:italic; }
+.rssItemThumbSummary a { }

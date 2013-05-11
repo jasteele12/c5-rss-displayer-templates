@@ -1,0 +1,8 @@
+/* blocks/rss_displayer/templates/show_images/view.css */
+.rssSummaryList { clear:both; }
+.rssSummaryListTitle { margin-bottom:8px; font-size:larger; font-weight:bold; text-align:center; }
+.rssItem { margin-bottom:1em; }
+.rssItemTitle a { font-weight:bold; }
+.rssItemImage { text-align:center; margin-left:auto; margin-right:auto; }
+.rssItemDate { font-style:italic; }
+.rssItemSummary a { margin-left:1em; )
